@@ -1,0 +1,14 @@
+.push-button {
+  display: block;
+  text-indent: 0;
+}
+
+.push-button div {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #EEE;
+  color: #000;
+  width: 8em;
+  padding: 10px;
+}
